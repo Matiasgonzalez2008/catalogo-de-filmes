@@ -5,3 +5,11 @@ body{
 header{
     font-size: 45px;
 }
+
+section{
+    display: flex;
+}
+
+.chamada-texto{
+    padding-right: 40px;
+}
